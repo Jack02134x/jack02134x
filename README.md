@@ -1,7 +1,6 @@
-<h1 align="center">⚡ Aditya Verma ⚡</h1>
+<h1 align="center">⚡ Jack Lewis ⚡</h1>
 
 <p align="center">
-  🎓 B.Tech CSE @ RGPV Bhopal <br>
   🐧 Linux • 💻 Systems • 🎮 Game Dev • 🤖 AI (Learning)  
 </p>
 
