@@ -1,103 +1,94 @@
-# Aditya Verma
+<h1 align="center">⚡ Aditya Verma ⚡</h1>
 
-📍 Bhopal, Madhya Pradesh, India  
-🎓 B.Tech in Computer Science — RGPV, Bhopal  
-📧 Email: brooooooo0707@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-verma-28511a399  
+<p align="center">
+  🎓 B.Tech CSE @ RGPV Bhopal <br>
+  🐧 Linux • 💻 Systems • 🎮 Game Dev • 🤖 AI (Learning)  
+</p>
 
----
-
-## About Me
-
-I am a computer science student who learns primarily through **hands-on experimentation and building things**. My interests span **software engineering, Linux systems, game development, and artificial intelligence**, and I enjoy understanding how tools work under the hood rather than just using them.
-
-I am comfortable working in **Linux-first environments**, writing scripts to automate tasks, managing configurations, and building small utilities that solve real problems. I enjoy learning new technologies incrementally and prefer practical understanding over memorization.
-
-Currently, I am focused on improving my core programming fundamentals, building system-level projects, exploring game engines, and gradually moving toward AI-related work.
-
-I am open to **internships, open-source collaboration, and learning-focused opportunities**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-verma-28511a399">LinkedIn</a> •
+  <a href="mailto:brooooooo0707@gmail.com">Email</a>
+</p>
 
 ---
 
-## Technical Skills
+## 🚀 Who Am I?
 
-### Programming Languages
-- Python (scripting, automation, problem solving)
-- C (fundamentals, low-level understanding)
-- C++ (basic STL, problem solving)
-- Java (OOP fundamentals)
-- Bash (shell scripting)
+A **Linux-first computer science student** who prefers terminals over GUIs and learning by **building, breaking, and fixing**.
 
-### Linux & Systems
-- Linux system administration (Arch Linux)
-- Package management and system setup
-- Writing automation scripts for daily workflows
-- Managing services and system behavior
-- Understanding permissions, processes, and networking basics
+I enjoy working close to the system layer: scripting, automation, configuration, and tooling. I explore game engines for fun, AI out of curiosity, and software engineering because things should not fall apart when you touch them.
 
-### Networking & Security (Practical Exposure)
+Currently focused on **strong fundamentals**, **clean code**, and **projects that actually do something**.
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Programming
+- 🐍 **Python** — scripting, automation, problem solving  
+- 🔧 **C / C++** — fundamentals, memory awareness  
+- ☕ **Java** — OOP basics  
+- 🖥 **Bash** — shell scripting, workflow automation  
+
+### 🐧 Linux & Systems
+- Arch Linux (daily driver)
+- System configuration & customization
+- Process, permissions, and package management
+- Writing scripts to automate system tasks
+
+### 🌐 Networking & Security (Hands-on)
 - OpenVPN configuration and usage
-- VPN automation using Bash
-- Authentication handling (auth-user-pass)
-- Basic understanding of privacy tools and network behavior
+- VPN rotation automation via Bash
+- Auth handling and config debugging
+- Practical exposure to privacy tools
 
-### Version Control & Collaboration
-- Git (clone, pull, rebase, push, conflict handling)
-- GitHub (public repositories, large file handling)
+### 🔧 Dev Tools
+- Git (rebase, conflicts, workflows)
+- GitHub (public repos, collaboration)
 - Git LFS (large asset management)
-
-### DevOps & Tooling (Beginner–Practical)
 - SSH key-based authentication
-- Remote repository management
-- Basic CI-friendly project structuring
-- Troubleshooting Linux and CLI-based workflows
 
-### Game Development
-- Godot Engine (basic usage, scripting exposure)
-- Unity (exploration and experimentation)
-- Interest in game logic, tools, and engine workflows
+### 🎮 Game Development
+- Godot Engine (exploration, scripting)
+- Unity (basic experimentation)
+- Interest in game logic and engine internals
 
-### Desktop & Environment Customization
-- Hyprland (window management and configuration)
+### 🖼 Desktop & Customization
+- Hyprland (Wayland compositor)
 - Hyprlock
-- GRUB theme customization
-- Linux desktop optimization and scripting
+- GRUB theme creation
+- Linux rice & workflow optimization
 
 ---
 
-## Experience
+## 🛠 What I’ve Actually Done
 
-### Student / Independent Learning
-**January 2025 – Present**  
-India  
-
-- Built and maintained Linux-based workflows using scripts and CLI tools  
-- Managed large GitHub repositories with Git LFS  
-- Created automation scripts for VPN rotation and system tasks  
-- Experimented with game engines and low-level system customization  
-- Practiced problem solving with programming exercises  
+- Automated VPN switching using Bash scripts  
+- Managed **9GB+ GitHub repositories** using Git LFS  
+- Built Linux scripts tightly integrated with system tools  
+- Customized bootloader, window manager, and workflows  
+- Practiced problem solving and algorithmic thinking  
 
 ---
 
-## Education
+## 🎯 Current Focus
 
-**Bachelor of Technology (B.Tech) — Computer Science**  
+- Data structures & algorithms  
+- Writing cleaner and more maintainable code  
+- Small but complete system-level projects  
+- Gradually moving toward **AI + systems programming**  
+
+---
+
+## 📚 Education
+
+🎓 **B.Tech in Computer Science**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal  
-**Year:** 2025  
+**2025**
 
 ---
 
-## Current Focus
+## 🧩 Philosophy
 
-- Strengthening data structures and algorithms
-- Writing cleaner, more reliable scripts
-- Building small but complete projects
-- Moving gradually toward AI and systems programming
-- Becoming comfortable reading documentation and source code
-
----
-
-## Philosophy (Short and Honest)
-
-I learn best by building, breaking, and fixing things.  
-I value clarity over buzzwords and fundamentals over hype.
+> Learn deeply. Build honestly.  
+> Tools change. Fundamentals don’t.
