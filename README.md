@@ -79,14 +79,6 @@ Currently focused on **strong fundamentals**, **clean code**, and **projects tha
 
 ---
 
-## 📚 Education
-
-🎓 **B.Tech in Computer Science**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal  
-**2025**
-
----
-
 ## 🧩 Philosophy
 
 > Learn deeply. Build honestly.  
