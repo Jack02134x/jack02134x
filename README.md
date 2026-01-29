@@ -63,7 +63,6 @@ Currently focused on **strong fundamentals**, **clean code**, and **projects tha
 ## 🛠 What I’ve Actually Done
 
 - Automated VPN switching using Bash scripts  
-- Managed **9GB+ GitHub repositories** using Git LFS  
 - Built Linux scripts tightly integrated with system tools  
 - Customized bootloader, window manager, and workflows  
 - Practiced problem solving and algorithmic thinking  
