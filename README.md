@@ -1,84 +1,112 @@
-<h1 align="center">⚡ Jack Lewis ⚡</h1>
+<h1 align="center">Aditya Verma</h1>
 
 <p align="center">
-  🐧 Linux • 💻 Systems • 🎮 Game Dev • 🤖 AI (Learning)  
+Backend Developer • Linux Enthusiast • System Tinkerer
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-verma-28511a399">LinkedIn</a> •
-  <a href="mailto:brooooooo0707@gmail.com">Email</a>
+Building scalable backend systems, automation tools, and developer-focused solutions.
 </p>
 
 ---
 
-## 🚀 Who Am I?
+## About Me
 
-A **Linux-first computer science student** who prefers terminals over GUIs and learning by **building, breaking, and fixing**.
+Hey, I'm Aditya.
 
-I enjoy working close to the system layer: scripting, automation, configuration, and tooling. I explore game engines for fun, AI out of curiosity, and software engineering because things should not fall apart when you touch them.
+I'm a backend-focused developer who enjoys building reliable systems, APIs, automation tools, and Linux-based workflows. I spend a lot of time experimenting with infrastructure, system customization, scripting, and performance optimization.
 
-Currently focused on **strong fundamentals**, **clean code**, and **projects that actually do something**.
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming
-- 🐍 **Python** — scripting, automation, problem solving  
-- 🔧 **C / C++** — fundamentals, memory awareness  
-- ☕ **Java** — OOP basics  
-- 🖥 **Bash** — shell scripting, workflow automation  
-
-### 🐧 Linux & Systems
-- Arch Linux (daily driver)
-- System configuration & customization
-- Process, permissions, and package management
-- Writing scripts to automate system tasks
-
-### 🌐 Networking & Security (Hands-on)
-- OpenVPN configuration and usage
-- VPN rotation automation via Bash
-- Auth handling and config debugging
-- Practical exposure to privacy tools
-
-### 🔧 Dev Tools
-- Git (rebase, conflicts, workflows)
-- GitHub (public repos, collaboration)
-- Git LFS (large asset management)
-- SSH key-based authentication
-
-### 🎮 Game Development
-- Godot Engine (exploration, scripting)
-- Unity (basic experimentation)
-- Interest in game logic and engine internals
-
-### 🖼 Desktop & Customization
-- Hyprland (Wayland compositor)
-- Hyprlock
-- GRUB theme creation
-- Linux rice & workflow optimization
+I enjoy understanding how things work underneath the surface — whether that's backend architecture, networking, operating systems, or developer tooling.
 
 ---
 
-## 🛠 What I’ve Actually Done
+## What I Work With
 
-- Automated VPN switching using Bash scripts  
-- Built Linux scripts tightly integrated with system tools  
-- Customized bootloader, window manager, and workflows  
-- Practiced problem solving and algorithmic thinking  
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication Systems
+- WebSockets
+- Database Design
+
+### Databases & Infrastructure
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- Nginx
+- Linux Servers
+
+### Dev & Tooling
+- Git & GitHub
+- Shell Scripting
+- Systemd
+- Arch Linux
+- Automation Scripts
+
+### Frontend (when needed)
+- HTML
+- CSS
+- JavaScript
+- React
 
 ---
 
-## 🎯 Current Focus
+## Interests
 
-- Data structures & algorithms  
-- Writing cleaner and more maintainable code  
-- Small but complete system-level projects  
-- Gradually moving toward **AI + systems programming**  
+- Backend Engineering
+- Linux Customization
+- Developer Tooling
+- System Performance
+- Automation
+- Self Hosting
+- Open Source
+- Infrastructure
 
 ---
 
-## 🧩 Philosophy
+## Current Focus
 
-> Learn deeply. Build honestly.  
-> Tools change. Fundamentals don’t.
+- Improving backend architecture skills
+- Building more production-style projects
+- Writing better technical documentation
+- Learning scalable system design
+- Exploring DevOps workflows
+
+---
+
+## Featured Projects
+
+### Portfolio Website
+A personal developer portfolio focused on clean UI, animations, and showcasing projects.
+
+### Linux Configuration & Automation
+Custom Arch Linux workflow setups, scripts, Waybar modules, and automation utilities.
+
+### Backend APIs & Tools
+Building backend services, authentication systems, and utility tools for real-world workflows.
+
+---
+
+## Philosophy
+
+I like building things that are:
+- practical
+- fast
+- maintainable
+- lightweight
+- developer-friendly
+
+---
+
+## Connect
+
+- Portfolio: https://portfolio-ruddy-omega-ausnpga1ru.vercel.app/
+- GitHub: https://github.com/jack02134x
+
+---
+
+<p align="center">
+“Build. Break. Learn. Repeat.”
+</p>
