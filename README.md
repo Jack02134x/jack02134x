@@ -48,7 +48,7 @@ Git • Linux • Bash • Systemd • Arch Linux
 
 ## 🔗 Links
 
-Portfolio → https://portfolio-ruddy-omega-ausnpga1ru.vercel.app/  
+Portfolio → https://portfolio-drab-ten-23.vercel.app/
 GitHub → https://github.com/jack02134x
 
 ---
