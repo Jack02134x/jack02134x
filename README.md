@@ -49,7 +49,9 @@ Git • Linux • Bash • Systemd • Arch Linux
 ## 🔗 Links
 
 Portfolio → https://portfolio-drab-ten-23.vercel.app/
+
 Linkedin → https://www.linkedin.com/in/aditya-verma-28511a399/
+
 ---
 
 <p align="center">
